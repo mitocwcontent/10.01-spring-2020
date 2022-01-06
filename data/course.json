@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "legacy_uid": "491a2d1f-166a-02ec-1f9a-6833608f4f71",
+  "instructors": {
+    "content": [
+      "2a81d170-0d13-e844-78bf-2f7b88423c12",
+      "3227e5fc-418f-4d3a-ed6a-8d5cfc6c232a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ada7d23d-0198-f4fd-05b6-13e6fb374b6c",
+    "website": "10-01-ethics-for-engineers-spring-2020"
+  },
+  "course_title": "Ethics for Engineers",
+  "course_description": "This seminar examines the problems of ethics in an engineering context by investigating case studies informed by foundational thinkers in ethics.\n",
+  "department_numbers": [
+    "10",
+    "1",
+    "2",
+    "22",
+    "6",
+    "16"
+  ],
+  "extra_course_numbers": "1.082,2.900,22.014,6.904,16.676",
+  "primary_course_number": "10.01",
+  "course_image_thumbnail": {
+    "content": "b347757c-ba24-4c75-4c14-1b4406822b3b",
+    "website": "10-01-ethics-for-engineers-spring-2020"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "53b71279-4fb0-412c-8697-7a0b86164019",
+  "title": "Course Metadata"
+}
